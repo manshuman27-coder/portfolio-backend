@@ -1,0 +1,114 @@
+{
+  "users": [
+    {
+      "id": "5dc13740-dbd4-406a-aff5-80ecb7c046fc",
+      "email": "admin@example.com",
+      "passwordHash": "79a1aa12d2b10bd593ab53a310a71072:cdff71f4acb2d86871e89bfdbf4c8a6a35efc63b6beef0fc9b5d430ecdfae602cd93c73d570912de12b548ed9b9a51f48b9eaa9835c6deb6137fcb12548319a0",
+      "createdAt": "2026-10-06T14:46:33.434Z"
+    }
+  ],
+  "about": {
+    "name": "Your Name",
+    "title": "Full-Stack Developer",
+    "bio": "Edit this bio from the admin panel at /admin.",
+    "photo": "",
+    "resumeUrl": "",
+    "github": "",
+    "linkedin": ""
+  },
+  "skills": [
+    {
+      "id": "a8f6f41a-3874-4c2c-8e7e-b0bea43e9cb7",
+      "createdAt": "2026-10-06T14:46:33.435Z",
+      "order": 0,
+      "name": "JavaScript",
+      "category": "Languages",
+      "level": 85
+    },
+    {
+      "id": "279f91ad-c44a-43f8-b34e-c4ae6d736f64",
+      "createdAt": "2026-10-06T14:46:33.435Z",
+      "order": 0,
+      "name": "Node.js",
+      "category": "Backend",
+      "level": 85
+    },
+    {
+      "id": "278bc498-9b29-4342-a889-c2cb080a8666",
+      "createdAt": "2026-10-06T14:46:33.435Z",
+      "order": 0,
+      "name": "CSS",
+      "category": "Frontend",
+      "level": 85
+    }
+  ],
+  "projects": [
+    {
+      "id": "20af46cb-393a-41c2-a078-9a4c2089c32c",
+      "createdAt": "2026-10-06T14:46:33.435Z",
+      "order": 0,
+      "title": "Sample Project",
+      "slug": "sample-project",
+      "description": "A project added from the CMS.",
+      "techStack": [
+        "Node",
+        "JS"
+      ],
+      "image": "",
+      "liveUrl": "",
+      "repoUrl": "",
+      "featured": true
+    }
+  ],
+  "blogs": [
+    {
+      "id": "a0d5a089-90ed-46b7-951c-7ae0d7ca0ef9",
+      "createdAt": "2026-10-06T14:46:33.435Z",
+      "order": 0,
+      "title": "Hello World",
+      "slug": "hello-world",
+      "content": "My first post.\n\nWritten in the CMS.",
+      "tags": [
+        "intro"
+      ],
+      "published": true,
+      "publishedAt": "2026-10-06T14:46:33.435Z"
+    }
+  ],
+  "experience": [
+    {
+      "id": "ea237d21-7a87-4bcb-a2ba-1a13daf51943",
+      "createdAt": "2026-10-06T14:46:33.435Z",
+      "order": 0,
+      "role": "Developer",
+      "company": "Company",
+      "startDate": "2022",
+      "endDate": "Present",
+      "description": "What you did here.",
+      "type": "work"
+    }
+  ],
+  "testimonials": [
+    {
+      "id": "5407d180-10ae-4e17-ba92-130e17fe9966",
+      "createdAt": "2026-10-06T14:46:33.435Z",
+      "order": 0,
+      "name": "Happy Client",
+      "role": "CEO",
+      "company": "Acme",
+      "quote": "Fantastic to work with."
+    }
+  ],
+  "services": [
+    {
+      "id": "887920e4-f89f-4425-a6ea-0f4f2e0bc0c1",
+      "createdAt": "2026-10-06T14:46:33.435Z",
+      "order": 0,
+      "title": "Web Development",
+      "description": "Custom websites and APIs.",
+      "icon": "✦"
+    }
+  ],
+  "messages": [],
+  "media": []
+}
